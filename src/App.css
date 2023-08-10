@@ -6,7 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+/* .color{
+  color:#61dafb
+} */
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -36,3 +38,5 @@
     transform: rotate(360deg);
   }
 }
+/* src/index.css or src/App.css */
+@import "~bootstrap/dist/css/bootstrap.min.css";
